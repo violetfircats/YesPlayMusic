@@ -50,7 +50,7 @@
 Electron 版本由 [@hawtim](https://github.com/hawtim) 和 [@qier222](https://github.com/qier222) 适配并维护，支持 macOS、Windows、Linux。
 
 访问本项目的 [Releases](https://github.com/qier222/YesPlayMusic/releases)
-页面下载安装包。
+页面下载安装包
 
 - macOS 用户可以通过 Homebrew 来安装：`brew install --cask yesplaymusic`
 
